@@ -1,6 +1,5 @@
-# Hi there, I'm Rafid! 👋
-
-I'm a C++ programmar and a Roblox developer.
+# Hello there, I'm Rafid Ahsan! 👋
+## I'm a high school student from Bangladesh, passionate about C++ programming and Roblox development.
 
 ## 📌 Pinned Repositories
 
