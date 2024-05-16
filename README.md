@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Rafid! 👋
 
-<!--
-**rafid-dev/rafid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C++ programmar and a Roblox developer.
 
-Here are some ideas to get you started:
+## 📌 Pinned Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Rice](https://github.com/rafid-dev/rice)
+- **Description:** C++ UCI Chess Engine
+- **Language:** C++
+
+![Stars](https://img.shields.io/github/stars/rafid-dev/rice?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/rice?style=social)
+
+### [Jet](https://github.com/rafid-dev/jet)
+- **Description:** ultra fast chess engine
+- **Language:** C++
+
+![Stars](https://img.shields.io/github/stars/rafid-dev/jet?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/jet?style=social)
+
+## About Me
+
+My interests span across:
+- **Machine Learning (ML) & Artificial Intelligence (AI)**
+- **Mathematics and Physics**
+- **Game Development with Roblox**
+- **GPU Programming (CUDA)**
+
+## Get in Touch
+
+- **Email:** [vorahsan@gmail.com](mailto:vorahsan@gmail.com)
+- **GitHub:** [github.com/rafid-dev](https://github.com/rafid-dev)
+- **Twitter:** [twitter.com/rafiddev](https://twitter.com/rafiddev)
+- **Discord:** @j.en
+
+Feel free to explore my projects and connect with me. Let's collaborate and create something extraordinary together!
+
+![Rafid](Untitled177-1.webp)
