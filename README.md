@@ -1,5 +1,9 @@
+Here’s the revised version with your changes:
+
+---
+
 # **Hello there, I'm Rafid Ahsan!** 👋  
-## Full-Stack Roblox Scripter | Pure Math Enthusiast**  
+## **Full-Stack Roblox Scripter | Programmer | Pure Math**  
 🌍 **Location:** Bangladesh  
 
 ---
@@ -9,7 +13,7 @@ With over **5 years of experience as a full-stack scripter**, I specialize in **
 
 My primary passion lies in **pure mathematics**, particularly in **analysis, topology, and geometry**, while also exploring their profound connections to **physics**, including **quantum mechanics and general relativity**.  
 
-I am deeply fascinated by **mathematics and deep learning**, emphasizing their **theoretical foundations and practical applications**. My projects range from **developing efficient C++ chess engines** to **simulating N-body dynamics**.  
+I am deeply fascinated by **mathematics and deep learning**, emphasizing their **theoretical foundations and practical applications**. My projects range from **developing efficient C++ chess engines** to **simulating N-body dynamics and wave propagation**.  
 
 ---
 
@@ -18,14 +22,39 @@ I am deeply fascinated by **mathematics and deep learning**, emphasizing their *
 - **Theoretical Physics:** Quantum Mechanics, General Relativity  
 - **Deep Learning:** Mathematical Foundations and Practical Implementations  
 - **Game Development:** Roblox VFX and UI Scripting  
-- **GPU Programming:** CUDA for High-Performance Computing  
+- **High-Performance Computing:** CUDA and Optimized Algorithms  
+
+---
+
+## **🛠️ Languages & Tools**  
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+![Roblox](https://img.shields.io/badge/-Roblox-D9261E?style=flat-square&logo=roblox&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=gnu&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)  
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=gnu&logoColor=white)  
 
 ---
 
 ## **📌 Pinned Repositories**  
 
 ### **[Rice](https://github.com/rafid-dev/rice)**  
-- 🧠 **C++ UCI Chess Engine** - Powerful, efficient, and highly optimized  
+- 🧠 **C++ UCI Chess Engine** - NNUE based chess engine.  
 - 💡 **Language:** C++  
 - ![Stars](https://img.shields.io/github/stars/rafid-dev/rice?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/rice?style=social)  
 
@@ -35,8 +64,6 @@ I am deeply fascinated by **mathematics and deep learning**, emphasizing their *
 - ⚡ **Ultra Fast Chess Engine** - Built for speed and performance  
 - 💡 **Language:** C++  
 - ![Stars](https://img.shields.io/github/stars/rafid-dev/jet?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/jet?style=social)  
-
----
 
 ---
 
