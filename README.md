@@ -1,35 +1,58 @@
-# Hello there, I'm Rafid Ahsan! 👋
-## I'm a high school student from Bangladesh, passionate about C++ programming and Roblox development.
+# **Hello there, I'm Rafid Ahsan!** 👋  
+## Full-Stack Roblox Scripter | Pure Math Enthusiast**  
+🌍 **Location:** Bangladesh  
 
-## 📌 Pinned Repositories
+---
 
-### [Rice](https://github.com/rafid-dev/rice)
-- **Description:** C++ UCI Chess Engine
-- **Language:** C++
+## **🌟 About Me**  
+With over **5 years of experience as a full-stack scripter**, I specialize in **frontend VFX and UI scripting** on Roblox, having contributed to projects totaling over **7 billion visits**.  
 
-![Stars](https://img.shields.io/github/stars/rafid-dev/rice?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/rice?style=social)
+My primary passion lies in **pure mathematics**, particularly in **analysis, topology, and geometry**, while also exploring their profound connections to **physics**, including **quantum mechanics and general relativity**.  
 
-### [Jet](https://github.com/rafid-dev/jet)
-- **Description:** ultra fast chess engine
-- **Language:** C++
+I am deeply fascinated by **mathematics and deep learning**, emphasizing their **theoretical foundations and practical applications**. My projects range from **developing efficient C++ chess engines** to **simulating N-body dynamics**.  
 
-![Stars](https://img.shields.io/github/stars/rafid-dev/jet?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/jet?style=social)
+---
 
-## About Me
+## **🚀 Key Interests**  
+- **Pure Mathematics:** Analysis, Topology, Geometry  
+- **Theoretical Physics:** Quantum Mechanics, General Relativity  
+- **Deep Learning:** Mathematical Foundations and Practical Implementations  
+- **Game Development:** Roblox VFX and UI Scripting  
+- **GPU Programming:** CUDA for High-Performance Computing  
 
-My interests span across:
-- **Machine Learning (ML) & Artificial Intelligence (AI)**
-- **Mathematics and Physics**
-- **Game Development with Roblox**
-- **GPU Programming (CUDA)**
+---
 
-## Get in Touch
+## **📌 Pinned Repositories**  
 
-- **Email:** [vorahsan@gmail.com](mailto:vorahsan@gmail.com)
-- **GitHub:** [github.com/rafid-dev](https://github.com/rafid-dev)
-- **Twitter:** [twitter.com/rafiddev](https://twitter.com/rafiddev)
-- **Discord:** @j.en
+### **[Rice](https://github.com/rafid-dev/rice)**  
+- 🧠 **C++ UCI Chess Engine** - Powerful, efficient, and highly optimized  
+- 💡 **Language:** C++  
+- ![Stars](https://img.shields.io/github/stars/rafid-dev/rice?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/rice?style=social)  
 
-Feel free to explore my projects and connect with me. Let's collaborate and create something extraordinary together!
+---
 
-![Rafid](Untitled177-1.webp)
+### **[Jet](https://github.com/rafid-dev/jet)**  
+- ⚡ **Ultra Fast Chess Engine** - Built for speed and performance  
+- 💡 **Language:** C++  
+- ![Stars](https://img.shields.io/github/stars/rafid-dev/jet?style=social) ![Forks](https://img.shields.io/github/forks/rafid-dev/jet?style=social)  
+
+---
+
+---
+
+## **🌐 Get in Touch**  
+- **Email:** [vorahsan@gmail.com](mailto:vorahsan@gmail.com)  
+- **GitHub:** [github.com/rafid-dev](https://github.com/rafid-dev)  
+- **Twitter:** [twitter.com/rafiddev](https://twitter.com/rafiddev)  
+- **LinkedIn:** [linkedin.com/in/rafidahsan](https://www.linkedin.com/in/rafidahsan)  
+- **Discord:** @j.en  
+
+---
+
+Feel free to explore my projects and reach out if you'd like to **collaborate** or **exchange ideas**. Let's create something extraordinary together!  
+
+---
+
+![Rafid](Untitled177-1.webp)  
+
+---
