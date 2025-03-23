@@ -19,10 +19,10 @@ I am deeply fascinated by **mathematics and deep learning**, emphasizing their *
 
 ## **🚀 Key Interests**  
 - **Pure Mathematics:** Analysis, Topology, Geometry  
-- **Theoretical Physics:** Quantum Mechanics, General Relativity  
+- **Theoretical Physics:** Classical Mechanics, Quantum Mechanics, General Relativity  
 - **Deep Learning:** Mathematical Foundations and Practical Implementations  
 - **Game Development:** Roblox VFX and UI Scripting  
-- **High-Performance Computing:** CUDA and Optimized Algorithms  
+- **High-Performance Computing:** CUDA
 
 ---
 
@@ -31,6 +31,11 @@ I am deeply fascinated by **mathematics and deep learning**, emphasizing their *
 [![Roblox](https://img.shields.io/badge/-Roblox-D9261E?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/) 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.cppreference.com/w/c) 
+[![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)  
+[![Clang](https://img.shields.io/badge/-Clang-0099CC?style=flat-square&logo=clang&logoColor=white)](https://clang.llvm.org/) 
+[![LLVM](https://img.shields.io/badge/-LLVM-262D3D?style=flat-square&logo=llvm&logoColor=white)](https://llvm.org/) 
+[![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat-square&logo=gnu&logoColor=white)](https://gcc.gnu.org/)  
+[![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)  
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/) 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
 [![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/software/binutils/) 
@@ -47,7 +52,6 @@ I am deeply fascinated by **mathematics and deep learning**, emphasizing their *
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) 
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/) 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)  
 
 ---
 
