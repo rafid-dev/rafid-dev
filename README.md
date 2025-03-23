@@ -1,12 +1,6 @@
-Here’s the revised version with your changes:
-
----
-
 # **Hello there, I'm Rafid Ahsan!** 👋  
 ## **Full-Stack Roblox Scripter | Programmer | Pure Math**  
 🌍 **Location:** Bangladesh  
-
----
 
 ## **🌟 About Me**  
 With over **5 years of experience as a full-stack scripter**, I specialize in **frontend VFX and UI scripting** on Roblox, having contributed to projects totaling over **7 billion visits**.  
