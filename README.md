@@ -49,7 +49,6 @@ I am deeply fascinated by **mathematics and deep learning**, emphasizing their *
 - **Email:** [vorahsan@gmail.com](mailto:vorahsan@gmail.com)  
 - **GitHub:** [github.com/rafid-dev](https://github.com/rafid-dev)  
 - **Twitter:** [twitter.com/rafiddev](https://twitter.com/rafiddev)  
-- **LinkedIn:** [linkedin.com/in/rafidahsan](https://www.linkedin.com/in/rafidahsan)  
 - **Discord:** @j.en  
 
 ---
