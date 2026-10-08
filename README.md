@@ -25,4 +25,4 @@ Roblox systems · networking · compilers · ML systems · GPU computing · self
 ## Contact
 
 **Email:** vorahsan@gmail.com  
-**Discord:** @j.en
+**Discord:** rslender
